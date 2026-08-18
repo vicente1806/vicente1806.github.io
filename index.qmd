@@ -1,0 +1,93 @@
+---
+page-layout: full
+title-block-style: none
+toc: false
+---
+
+::: {.hero}
+
+<div class="eyebrow">
+ECONOMÍA · INVESTIGACIÓN · POLÍTICAS PÚBLICAS
+</div>
+
+# Vicente Abrigo
+
+<div class="hero-subtitle">
+Investigación aplicada para comprender problemas públicos y aportar al debate.
+</div>
+
+<div class="hero-text">
+Soy economista y trabajo en investigación y análisis de políticas públicas. 
+En este sitio reúno artículos académicos, informes, propuestas y notas breves
+sobre economía y asuntos públicos.
+</div>
+
+<div class="hero-actions">
+<a class="btn btn-primary btn-lg" href="investigacion.qmd">
+Ver investigación
+</a>
+
+<a class="btn btn-outline-primary btn-lg" href="notas.qmd">
+Leer notas
+</a>
+</div>
+
+:::
+
+::: {.content-block}
+
+## Investigación y análisis para el debate público
+
+<div class="intro-text">
+Este espacio reúne trabajos de distinta extensión y naturaleza: investigación
+académica, documentos de política pública, análisis de datos y notas más breves
+sobre temas de interés económico.
+</div>
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.home-card}
+
+### Investigación
+
+Artículos académicos, documentos de trabajo, proyectos en desarrollo y materiales complementarios.
+
+[Explorar investigación →](investigacion.qmd)
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.home-card}
+
+### Política pública
+
+Informes, policy briefs, propuestas y análisis orientados al diseño y evaluación de políticas públicas.
+
+[Ver trabajos de política pública →](policy.qmd)
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.home-card}
+
+### Notas
+
+Textos breves, gráficos comentados, discusiones metodológicas y reflexiones sobre temas económicos actuales.
+
+[Leer notas →](notas.qmd)
+
+:::
+
+:::
+
+::::
+
+:::
