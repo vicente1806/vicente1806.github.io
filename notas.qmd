@@ -1,0 +1,12 @@
+---
+title: "Notas"
+description: "Análisis breves, gráficos comentados y reflexiones sobre economía y políticas públicas."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+---
+
+En esta sección publico textos breves sobre economía y políticas públicas. El formato es deliberadamente más flexible que el de un artículo académico o un informe: notas sobre datos recientes, discusiones metodológicas, gráficos comentados y algunas ideas en desarrollo.

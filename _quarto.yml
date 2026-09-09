@@ -1,17 +1,41 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Vicente Abrigo"
+
   navbar:
-    right:
+    background: "#17324d"
+    foreground: "#ffffff"
+    left:
       - href: index.qmd
         text: Inicio
+
+    right:
+      - href: investigacion.qmd
+        text: Investigación
+      - href: policy.qmd
+        text: Política pública
+      - href: notas.qmd
+        text: Notas
+      - href: sobre-mi.qmd
+        text: Sobre mí
+      - href: cv.qmd
+        text: CV
+
+
+  search: true
+
+  page-footer:
+    left: "© 2026 Vicente Abrigo"
+    right: "Economía, investigación y políticas públicas"
 
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: true
+    smooth-scroll: true
 
 editor: visual

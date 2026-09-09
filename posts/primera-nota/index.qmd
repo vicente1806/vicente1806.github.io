@@ -1,0 +1,22 @@
+---
+title: "Una primera nota"
+description: "Una publicación de prueba para comprobar el funcionamiento de la sección."
+date: 2026-08-23
+categories:
+  - Economía
+  - Política pública
+---
+
+Esta es una publicación de prueba.
+
+La sección de notas permitirá publicar textos breves, gráficos comentados y análisis que no necesariamente requieren la extensión o formalidad de un artículo académico.
+
+## ¿Qué podría publicar aquí?
+
+Por ejemplo:
+
+- una cifra interesante del mercado laboral;
+- un gráfico comentado;
+- una discusión metodológica;
+- una reacción a una política pública;
+- una idea preliminar que posteriormente podría convertirse en un trabajo más extenso.

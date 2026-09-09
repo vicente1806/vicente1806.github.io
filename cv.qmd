@@ -1,0 +1,9 @@
+---
+title: "CV"
+description: "Experiencia profesional, formación y publicaciones."
+toc: false
+---
+
+Aquí puedes consultar una síntesis de mi trayectoria profesional y descargar mi currículum completo.
+
+[Ver CV en PDF](files/cv-vicente-abrigo.pdf){.btn .btn-primary target="_blank"}
