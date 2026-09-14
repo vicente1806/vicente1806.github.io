@@ -1,6 +1,8 @@
 ---
-title: "Investigación"
-description: "Artículos, documentos de trabajo y proyectos de investigación."
+title: "Sobre mí"
+description: "Economista e investigador en políticas públicas."
+toc: false
 ---
+Soy economista y trabajo en investigación aplicada y análisis de políticas públicas.
 
-Esta sección se encuentra en preparación.
+Actualmente formo parte del Instituto de Políticas Públicas de la Universidad Andrés Bello (IPP UNAB). Mis principales áreas de interés incluyen mercado laboral, economía del trabajo, políticas sociales y evaluación de políticas públicas.

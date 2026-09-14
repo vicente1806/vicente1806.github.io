@@ -9,7 +9,7 @@ toc: false
 ECONOMÍA · INVESTIGACIÓN · POLÍTICAS PÚBLICAS
 :::
 
-# Vicente Abrigo
+# Vicente Abrigo Zuñiga
 
 ::: hero-subtitle
 Investigación aplicada para comprender problemas públicos y aportar al debate.

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Vicente Abrigo"
+  title: "Vicente Abrigo Zuñiga"
 
   navbar:
     background: "#17324d"
@@ -28,7 +28,7 @@ website:
   search: true
 
   page-footer:
-    left: "© 2026 Vicente Abrigo"
+    left: "© 2026 Vicente Abrigo Zuñiga"
     right: "Economía, investigación y políticas públicas"
 
 format:

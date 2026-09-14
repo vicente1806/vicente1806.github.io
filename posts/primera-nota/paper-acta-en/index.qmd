@@ -1,0 +1,10 @@
+---
+title: "English title"
+description: "A short explanation of the paper's main findings."
+date: 2026-09-14
+categories:
+  - Research
+lang: en
+---
+
+Text of the note...

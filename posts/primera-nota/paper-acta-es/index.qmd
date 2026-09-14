@@ -1,0 +1,11 @@
+---
+title: "Título pedagógico de la nota"
+description: "Una explicación breve de los principales resultados del artículo."
+date: 2026-09-14
+categories:
+  - Investigación
+  - Política pública
+lang: es
+---
+
+Texto de la nota...

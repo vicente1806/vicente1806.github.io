@@ -1,6 +1,35 @@
 ---
 title: "Investigación"
 description: "Artículos, documentos de trabajo y proyectos de investigación."
+toc: false
 ---
 
-Esta sección se encuentra en preparación.
+## Publicaciones
+
+### Economic perceptions and government approval in Chile: An analysis of democratic transition (1990–2022)
+
+**Vicente Abrigo Zúñiga, Roberto Cases and Rodrigo Vergara**  
+*Acta Política, 2024*
+
+Breve descripción de una o dos líneas sobre la pregunta principal del trabajo.
+
+[Paper](https://link.springer.com/article/10.1057/s41269-024-00374-2){.btn .btn-primary target="_blank"}
+
+[Nota en español](posts/paper-acta-es/){.btn .btn-outline-primary}
+
+[English summary](posts/paper-acta-en/){.btn .btn-outline-primary}
+
+
+## Trabajos en revisión
+
+### The Role of Geography and Gender in Telecommunications Standards Participation
+
+**Vicente Abrigo, Justus Baron and Tatiana Rosá**
+
+Actualmente en revisión.
+
+[Más información](https://scioteca.caf.com/bitstream/handle/123456789/2568/The%20Role%20of%20Geography%20and%20Gender%20in%20Telecommunications%20Standards%20Participation.pdf?sequence=1){.btn .btn-outline-primary target="_blank"}
+
+## Proyectos en curso
+
+Aquí posteriormente podemos agregar tus trabajos que todavía no tienen paper completo.
