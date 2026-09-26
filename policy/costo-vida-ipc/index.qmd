@@ -1,0 +1,17 @@
+---
+title: "Cuánto cuesta vivir como una familia representativa: evidencia y propuesta de un índice complementario al IPC"
+date: 2025-10-03
+description: "Una propuesta para complementar la medición del costo de vida incorporando una aproximación alternativa al costo de la vivienda y nuevos ponderadores."
+categories:
+  - Costo de vida
+  - Inflación
+  - Vivienda
+---
+
+*Instituto de Políticas Públicas UNAB, 2025*
+
+El informe examina hasta qué punto la medición convencional de precios permite representar el costo de mantener el nivel de vida de una familia representativa a través del tiempo.
+
+El documento construye ponderadores alternativos y propone una medición complementaria del costo de la vivienda, incluyendo el tratamiento de la vivienda propia mediante alquiler imputado. El objetivo es aportar una herramienta adicional para análisis distributivos, bienestar y políticas públicas, más que sustituir necesariamente al IPC utilizado para otros fines.
+
+[Ver informe completo](https://ipp.unab.cl/wp-content/uploads/2025/10/20251003-IPP-UNAB_Informe-IPC-alquiler-imputado.pdf){.btn .btn-primary target="_blank"}

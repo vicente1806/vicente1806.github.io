@@ -1,5 +1,13 @@
-**Policy**
-
-Esta sección tiene política pública
-
-Esta sección se encuentra en preparación.
+---
+title: "Política pública"
+description: "Informes, análisis y propuestas sobre distintos ámbitos de política pública."
+listing:
+  contents: policy
+  sort: "date desc"
+  type: default
+  categories: true
+  filter-ui: true
+page-layout: full
+---
+En esta sección reúno informes y documentos de política pública en los que he participado, organizados por sus principales áreas temáticas.
+---

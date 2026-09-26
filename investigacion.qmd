@@ -9,9 +9,9 @@ toc: false
 ### Economic perceptions and government approval in Chile: An analysis of democratic transition (1990–2022)
 
 **Vicente Abrigo Zúñiga, Roberto Cases and Rodrigo Vergara**  
-*Acta Política, 2024*
+*Acta Politica, 2024*
 
-Breve descripción de una o dos líneas sobre la pregunta principal del trabajo.
+Using individual-level survey data covering more than three decades of Chilean democracy, the paper examines how economic perceptions relate to government approval. The results show that perceptions of the national economy matter more than personal economic circumstances, while the strength of this relationship changes as Chile's democratic institutions consolidate.
 
 [Paper](https://link.springer.com/article/10.1057/s41269-024-00374-2){.btn .btn-primary target="_blank"}
 
@@ -24,12 +24,15 @@ Breve descripción de una o dos líneas sobre la pregunta principal del trabajo.
 
 ### The Role of Geography and Gender in Telecommunications Standards Participation
 
-**Vicente Abrigo, Justus Baron and Tatiana Rosá**
+**Vicente Abrigo Zúñiga, Justus Baron and Tatiana Rosá**
 
-Actualmente en revisión.
+*Working paper available through CAF. Currently under review.*
 
-[Más información](https://scioteca.caf.com/bitstream/handle/123456789/2568/The%20Role%20of%20Geography%20and%20Gender%20in%20Telecommunications%20Standards%20Participation.pdf?sequence=1){.btn .btn-outline-primary target="_blank"}
+Using the rotation of meeting locations in 3GPP, the paper studies how travel frictions affect participation in telecommunications standard-setting. Distance and national borders significantly reduce attendance, with substantially larger effects for women, suggesting that geography continues to shape who participates in influential international standard-setting processes.
+
+[Working paper](https://scioteca.caf.com/handle/123456789/2568){.btn .btn-primary target="_blank"}
+
 
 ## Proyectos en curso
 
-Aquí posteriormente podemos agregar tus trabajos que todavía no tienen paper completo.
+Aquí se incorporarán proyectos de investigación actualmente en desarrollo.
