@@ -1,0 +1,17 @@
+---
+title: "Impacto de la estructura familiar en la movilidad social"
+date: 2025-11-21
+description: "Análisis del papel de la estructura familiar y de los aportes de madres y padres en la movilidad educativa y ocupacional intergeneracional en Chile."
+categories:
+  - Movilidad social
+  - Familia
+  - Educación
+---
+
+*Instituto de Políticas Públicas UNAB, 2025*
+
+A partir de la Encuesta UNAB de Movilidad Social Multidimensional, el estudio examina las diferencias en movilidad intergeneracional entre hogares biparentales y monoparentales maternos.
+
+Los resultados muestran que los hogares biparentales presentan puntos de partida educativos y ocupacionales más altos, mientras que los hogares monoparentales exhiben mayor movilidad relativa desde una base inferior. Los modelos econométricos indican además que los aportes educativos y ocupacionales de madre y padre son complementarios, y que las diferencias no se explican únicamente por los ingresos del hogar.
+
+[Ver informe completo](https://ipp.unab.cl/wp-content/uploads/2025/11/20251121-IPP-UNAB_Informe-Impacto-estructura-familiar-en-la-movilidad-social_Estudio-UNAB-de-Movilidad-Social-Multidimensional.pdf){.btn .btn-primary target="_blank"}
